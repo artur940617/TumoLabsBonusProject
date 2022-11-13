@@ -1,4 +1,4 @@
-# Timer
+# Timer.
 import datetime
 import time
 
